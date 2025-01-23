@@ -1,5 +1,7 @@
 # Profiler en Visual Basic
 
+[Documentación detallada sobre Profiler en Visual Basic](https://github.com/Danielammmm/ProfilerDemo/blob/a3a00c53905dbcbac4243d3171c7b27ba3de0e38/Investigaci%C3%B3n%20detallada/1%20-%20Profiler%20en%20visual%20basic.docx)
+
 ## Opciones
 
 ### .NET Async
